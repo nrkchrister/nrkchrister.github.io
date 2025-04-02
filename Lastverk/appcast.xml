@@ -1,1 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
 
+<channel>
+  <title>Lastverk Updates</title>
+  <link>https://nrkchrister.github.io/Lastverk/appcast.xml</link>
+  <description>Latest releases of Lastverk</description>
+  <language>en</language>
+
+  <item>
+    <title>Version 0.3.2</title>
+    <pubDate>Tue, 02 Apr 2025 20:15:00 +0000</pubDate>
+    <enclosure
+      url="https://nrk-my.sharepoint.com/:u:/g/personal/christer_aasheim_nrk_no/ESrGEIpQ5wtFpD1kQLfeMzoBTIcbOn6lYdwwZnnWC18sjg?e=fZf1nS&download=1"
+      sparkle:version="0.3.2"
+      sparkle:shortVersionString="0.3.2"
+      length="48894377"
+      type="application/octet-stream"
+      sparkle:edSignature="5u1gc0yWwMGbFRIFhDX6cSbL+1Dut3oBx7nKTvP7eZIr5lLD1Tqn0bGlGtB2xX3vnRZ22cpWxwDIwKzbOaBFAg=="/>
+  </item>
+
+</channel>
+</rss>
