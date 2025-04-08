@@ -4,12 +4,49 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
 
 <channel>
+  <item>
+    <title>Lastverk 0.4.0</title>
+    <sparkle:releaseNotesLink>https://nrkchrister.github.io/Lastverk/Releases/0.4.0/release-notes-0.4.0.html</sparkle:releaseNotesLink>
+    <pubDate>Tue, 08 Apr 2025 17:53:12 +0000</pubDate>
+    <enclosure
+      url="https://nrkchrister.github.io/Lastverk/Releases/0.4.0/Lastverk-0.4.0.zip"
+      sparkle:version="28"
+      sparkle:shortVersionString="0.4.0"
+      sparkle:edSignature=""
+      length="48558147"
+      type="application/octet-stream"/>
+  </item>
+  <item>
+    <title>Lastverk 0.4.0</title>
+    <sparkle:releaseNotesLink>https://nrkchrister.github.io/Lastverk/Releases/0.4.0/release-notes-0.4.0.html</sparkle:releaseNotesLink>
+    <pubDate>Tue, 08 Apr 2025 17:11:35 +0000</pubDate>
+    <enclosure
+      url="https://nrkchrister.github.io/Lastverk/Releases/0.4.0/Lastverk-0.4.0.zip"
+      sparkle:version="28"
+      sparkle:shortVersionString="0.4.0"
+      sparkle:edSignature=""
+      length="48558674"
+      type="application/octet-stream"/>
+  </item>
   <title>Lastverk oppdateringer</title>
   <link>https://nrkchrister.github.io/Lastverk/appcast.xml</link>
   <description>Siste oppdateringer av Lastverk</description>
   <language>no</language>
 
+  <item>
+    <title>Lastverk 0.4.0</title>
+    <sparkle:releaseNotesLink>https://nrkchrister.github.io/Lastverk/Releases/0.4.0/release-notes-0.4.0.html</sparkle:releaseNotesLink>
+    <pubDate>Tue, 08 Apr 2025 16:58:28 +0000</pubDate>
+    <enclosure
+      url="https://nrkchrister.github.io/Lastverk/Releases/0.4.0/Lastverk-0.4.0.zip"
+      sparkle:version="28"
+      sparkle:shortVersionString="0.4.0"
+      sparkle:edSignature=""
+      length="48558910"
+      type="application/octet-stream"/>
+  </item>
 
+  
     <item>
       <title>Lastverk 0.3.3</title>
       <sparkle:releaseNotesLink>https://nrkchrister.github.io/Lastverk/release-notes/0.3.3.html</sparkle:releaseNotesLink>
