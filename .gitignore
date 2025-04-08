@@ -1,0 +1,5 @@
+# Midlertidige systemfiler
+.DS_Store
+*.swp
+*.tmp
+*.bak
