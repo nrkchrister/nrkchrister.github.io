@@ -5,6 +5,18 @@
 
 <channel>
   <item>
+    <title>Lastverk 0.4.1</title>
+    <sparkle:releaseNotesLink>https://nrkchrister.github.io/Lastverk/Releases/0.4.1/release-notes-0.4.1.html</sparkle:releaseNotesLink>
+    <pubDate>Tue, 08 Apr 2025 17:59:54 +0000</pubDate>
+    <enclosure
+      url="https://nrkchrister.github.io/Lastverk/Releases/0.4.1/Lastverk-0.4.1.zip"
+      sparkle:version="28"
+      sparkle:shortVersionString="0.4.1"
+      sparkle:edSignature=""
+      length="48558472"
+      type="application/octet-stream"/>
+  </item>
+  <item>
     <title>Lastverk 0.4.0</title>
     <sparkle:releaseNotesLink>https://nrkchrister.github.io/Lastverk/Releases/0.4.0/release-notes-0.4.0.html</sparkle:releaseNotesLink>
     <pubDate>Tue, 08 Apr 2025 17:53:12 +0000</pubDate>
