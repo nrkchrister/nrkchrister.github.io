@@ -1,0 +1,78 @@
+# macOS-systemfiler
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Xcode-spesifikke filer
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+!default.xcworkspace # Behold default workspace
+xcuserdata/
+xcdebugger/
+*.xcscmblueprint
+
+# Bygg-relaterte filer
+DerivedData/
+Build/
+*.o
+*.linkfilelist
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved # Hvis du vil sikre konsistens for avhengigheter
+Sources/**/.DS_Store
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+Carthage/Support/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Lintere og analyseverktøy
+.swiftlint.yml
+.swiftformat
+*.xcresult
+
+# Testing og dekning
+*.xccoverage
+*.profdata
+
+# IDE-filer og andre redigeringsverktøy
+.idea/
+.vscode/
+*.iml
+
+# Midlertidige filer
+*.temp
+*.tmp
+*.swp
+*.lock
+
+# Ekskluder verktøyspesifikke genererte filer
+*.hmap
+*.modulemap
+*.tbd
+*.plist~
+*.strings~
+
+# Lokale miljøfiler
+.env
+.local
