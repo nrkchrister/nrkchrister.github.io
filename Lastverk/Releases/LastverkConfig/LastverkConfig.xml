@@ -12,9 +12,9 @@
                     Description="Backup"
                     Handler="Lastverk.BackupHandler" />
             
-            <Step   Name="CopyFullResFiles"
+            <!--<Step   Name="CopyFullResFiles"
                     Description="Kopierer orginalfiler"
-                    Handler="Lastverk.CopyOriginalsHandler"/>
+                    Handler="Lastverk.CopyOriginalsHandler"/>-->
                     
             <Step Name="TranscodeProxies" Description="Transkoder proxyfiler" Handler="Lastverk.ProresTranscodeHandler"/>
             <!--<Step Name="Transcode264" Description="Transkoder h.264" Handler="Lastverk.h264TranscodeHandler"/>
