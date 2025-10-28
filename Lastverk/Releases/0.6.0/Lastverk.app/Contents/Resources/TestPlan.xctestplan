@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "260E84FD-0F3F-45D7-A9D6-F139F711B003",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Lastverk.xcodeproj",
+        "identifier" : "2012EB922D306A3100293C39",
+        "name" : "LastverkTests"
+      }
+    }
+  ],
+  "version" : 1
+}
